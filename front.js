@@ -1,5 +1,5 @@
 const params = { // 渡したいパラメータをJSON形式で書く
-    licens: "2",
+    licens: "1",
 };
 
 const query_params = new URLSearchParams(params);
